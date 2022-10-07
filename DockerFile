@@ -1,0 +1,1 @@
+Sample docker file created for nginx-_server
